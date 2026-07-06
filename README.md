@@ -24,7 +24,7 @@ This is the original preview
 ### Links
 
 * Solution URL: 
-* Live Site URL: https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY
+* Live Site URL: 
 
 ---
 
@@ -68,5 +68,5 @@ I followed a YouTube tutorial as a guide during this project, which helped me un
 
 ## Author
 
-* Frontend Mentor - https://www.frontendmentor.io/profile/nolan457
-* GitHub - https://github.com/YOUR_GITHUB_USERNAME
+* Frontend Mentor - 
+* GitHub - 
