@@ -23,8 +23,7 @@ This is the original preview
 
 ### Links
 
-* Solution URL: 
-* Live Site URL: 
+* Live Site URL: https://nolan457.github.io/social-links-profile-main-frontend-mentor/
 
 ---
 
@@ -68,5 +67,5 @@ I followed a YouTube tutorial as a guide during this project, which helped me un
 
 ## Author
 
-* Frontend Mentor - 
-* GitHub - 
+* Frontend Mentor - https://www.frontendmentor.io/profile/nolan457
+* GitHub - https://github.com/nolan457
